@@ -10,7 +10,7 @@
 #include<vector>
 #include<string>
 #include<sstream>
-#include <process.h>
+#include<process.h>
 
 using namespace std;
 
